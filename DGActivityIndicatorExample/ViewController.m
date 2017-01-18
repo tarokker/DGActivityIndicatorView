@@ -30,6 +30,7 @@
                                @(DGActivityIndicatorAnimationTypeThreeDots),
                                @(DGActivityIndicatorAnimationTypeBallPulse),
                                @(DGActivityIndicatorAnimationTypeBallClipRotate),
+                               @(DGActivityIndicatorAnimationTypeBallClipRotateLacciari),
                                @(DGActivityIndicatorAnimationTypeBallClipRotatePulse),
                                @(DGActivityIndicatorAnimationTypeBallClipRotateMultiple),
                                @(DGActivityIndicatorAnimationTypeBallRotate),
